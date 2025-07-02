@@ -5,7 +5,7 @@ namespace Config;
 use CodeIgniter\Database\Config;
 
 /**
- * Database Configuration
+ * ALTERAR O GRUPO PARA TESTS E USAR BASE DO DEFAULT
  */
 class Database extends Config
 {
